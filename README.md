@@ -1,1 +1,3 @@
 # Desafio-do-lab
+
+foi nos falado na aula uma explicação sobre o SLA e seus modelos(porcetangem) e tempos de inatividade e o para que serve cada modelo,e foi explicado que na criaçâo da maquina virtual do lado de cada parâmetro esta um circulo pequeno que esta a explicação do que é e o do que serve, mas nos foi orientado que se nâo entendermos devido a muita informação, podemos clicar em "Saiba mais" que nos levara a uma janela com uma explicação mais ampla, foi dito tambem sobre contas de replicação, que podemos replicar dados entre data centers e regiões fora isso ele influencia o SLA quanto mais replica vai ter menos tempo de indiponibilidade por quê tem o mesmo dado em mais de um lugar ao mesmo tempo
